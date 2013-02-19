@@ -1,0 +1,2 @@
+Git已经变得非常流行，连Codeplex现在也已经主推Git。Github上更是充斥着各种高质量的开源项目，比如ruby on rails，cocos2d等等。
+对于习惯Windows图形界面的程序员来讲，Github的使用是需要点时间和耐心的，然而最近Github发布了Github for Windows 则大大降低了学习成本和使用难度，他甚至比SVN都简单。
